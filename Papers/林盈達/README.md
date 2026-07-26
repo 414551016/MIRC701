@@ -1,6 +1,7 @@
 # 林盈達
 
-## [Reinforcement Learning-Driven Honeypots: Tactic-Based Defense for Industrial Control Systems," IEEE Transactions on Machine Learning in Communications and Networking, to appear.](https://github.com/414551016/MIRC701/blob/main/Papers/%E6%9E%97%E7%9B%88%E9%81%94/Reinforcement_Learning-Driven_Honeypots_Tactic-Based_Defense_for_Industrial_Control_Systems.pdf)
+## [Reinforcement Learning-Driven Honeypots: Tactic-Based Defense for Industrial Control Systems](https://github.com/414551016/MIRC701/blob/main/Papers/%E6%9E%97%E7%9B%88%E9%81%94/Reinforcement_Learning-Driven_Honeypots_Tactic-Based_Defense_for_Industrial_Control_Systems.pdf)
+IEEE Transactions on Machine Learning in Communications and Networking, to appear.
 > 強化學習驅動的蜜罐：工業控制系統的基於策略的防禦
 >
 > 發表日期： 2026 年 4 月 17 日  版本的最終更新日期（current version）為 2026 年 4 月 28 日
